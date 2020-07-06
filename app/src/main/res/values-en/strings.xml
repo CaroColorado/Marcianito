@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marcianito</string>
+    <string name="tituloActividad">Welcome</string>
+    <string name="nombreBoton">Click Me</string>
+</resources>
